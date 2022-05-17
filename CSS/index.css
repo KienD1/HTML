@@ -1,0 +1,30 @@
+div p strong{
+    color:red;
+    
+}
+h2{
+    color:blue;
+}
+#bg_red{
+    background:red;
+}
+div.bg_yellow{
+    color: yellow;
+}
+div#main h2.title{
+    color:aqua;
+}
+body{
+    background-image: url(https://img5.thuthuatphanmem.vn/uploads/2021/11/08/anh-nen-gaming-4k-2160p_081451377.jpg);
+    background-attachment: scroll;
+}
+div p{
+    
+    font-family: 'Times New Roman', Times, serif;
+}
+div#nomal{
+    font-style: normal;
+}
+div#italic{
+    font-style: italic;
+}
